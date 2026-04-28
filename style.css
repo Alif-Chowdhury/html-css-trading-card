@@ -1,6 +1,12 @@
 /* add your CSS here */
 .card-container {
-
+    border: 4px solid rgb(243, 243, 126);
+    padding: 5px 18px;
+    width: 30%;
+    margin: 0 auto;
+    margin-top: 2%;
+    background: #e9dede;
+    border-radius: 20px;
 }
 
 .card-title {
@@ -8,7 +14,7 @@
 }
 
 .card-image {
-
+  width: 100%
 }
 
 .bottom-content {
@@ -18,4 +24,7 @@
 
 .stats-list {
 
+}
+.scientific-header {
+  font-weight: normal;
 }
